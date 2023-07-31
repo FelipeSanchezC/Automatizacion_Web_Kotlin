@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ejecuciones.ejecucionTestCaseLogin" tests="1" skipped="0" failures="0" errors="0" timestamp="2023-07-31T21:03:41" hostname="DESKTOP-OHL9A44" time="14.23">
+  <properties/>
+  <testcase name="runTestCaseLogin()" classname="ejecuciones.ejecucionTestCaseLogin" time="14.23"/>
+  <system-out><![CDATA[El resultado de la questions es true
+]]></system-out>
+  <system-err><![CDATA[[Test worker] INFO net.serenitybdd.core.webdriver.driverproviders.ChromeDriverProvider - Starting Chrome driver instance with capabilities:
+[Test worker] INFO net.serenitybdd.core.webdriver.driverproviders.ChromeDriverProvider - Capabilities {acceptInsecureCerts: false, browserName: chrome, goog:chromeOptions: {args: [incognito, start-maximized, disable-popup-blocking, disable-infobars, incognito, start-maximized, disable-popup-blocking, disable-infobars, remote-allow-origins=*], extensions: []}}
+jul. 31, 2023 4:03:44 P. M. org.openqa.selenium.remote.service.DriverService$Builder getLogOutput
+INFORMACIÓN: Driver logs no longer sent to console by default; https://www.selenium.dev/documentation/webdriver/drivers/service/#setting-log-output
+jul. 31, 2023 4:03:48 P. M. org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
+ADVERTENCIA: Unable to find an exact match for CDP version 115, so returning the closest version found: 114
+]]></system-err>
+</testsuite>
