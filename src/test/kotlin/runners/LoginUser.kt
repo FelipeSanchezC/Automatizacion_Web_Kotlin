@@ -10,7 +10,7 @@ import org.junit.runner.RunWith
     features = ["C:\\Users\\DELL\\IdeaProjects\\Aut-Kotlin-Web\\src\\test\\resources\\features\\LoginWebPage.feature"],
     glue = ["stepDefinition"],
     snippets = CucumberOptions.SnippetType.CAMELCASE,
-    tags = "@TestCaseMultipleLogin"
+    tags = "@TestCaseLogin"
 )
 
 class LoginUser {
